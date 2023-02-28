@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gradient_Generator/static/css/main.646df1f4.css",
+    "main.js": "/Gradient_Generator/static/js/main.d422af1c.js",
+    "index.html": "/Gradient_Generator/index.html",
+    "main.646df1f4.css.map": "/Gradient_Generator/static/css/main.646df1f4.css.map",
+    "main.d422af1c.js.map": "/Gradient_Generator/static/js/main.d422af1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646df1f4.css",
+    "static/js/main.d422af1c.js"
+  ]
+}
